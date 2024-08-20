@@ -50,7 +50,7 @@ Contributions are welcome! If you have ideas or improvements, feel free to fork 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
 This version of the README.md gives a concise yet comprehensive overview of the project, how to get started, and how to contribute.
 
